@@ -2,8 +2,10 @@ logging:
   path: ./log/
 
 spring:
+  redis:
+    host: localhost
   datasource:
-    url: jdbc:mysql://localhost:3306/xzs?useSSL=false&useUnicode=true&serverTimezone=Asia/Shanghai&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&allowPublicKeyRetrieval=true&allowMultiQueries=true
-    username: root
-    password: 123456
+    url: jdbc:mysql://128.199.104.251:3306/online_exam?useSSL=false&useUnicode=true&serverTimezone=Asia/Shanghai&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&allowPublicKeyRetrieval=true&allowMultiQueries=true
+    username: online_exam
+    password: EiSG8HSf8CKj8j4S
     driver-class-name: com.mysql.cj.jdbc.Driver

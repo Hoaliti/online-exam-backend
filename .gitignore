@@ -22,6 +22,7 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+target
 
 
 ### Customer ###
