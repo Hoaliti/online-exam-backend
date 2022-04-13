@@ -55,13 +55,6 @@
         <url>git@github.com:mindskip/xzs-mysql.git</url>
     </scm>
 
-    <repositories>
-        <repository>
-            <id>aliyun-releases</id>
-            <url>https://maven.aliyun.com/repository/public</url>
-        </repository>
-    </repositories>
-
 
     <dependencies>
         <dependency>
