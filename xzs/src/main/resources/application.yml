@@ -39,10 +39,10 @@ system:
       - /api/wx/student/auth/checkBind
       - /api/wx/student/user/register
   qn:
-    url: http://xzs.file.mindskip.net
-    bucket: mindskip
-    access-key: KabOBTPGVll2sSV8d1OIlW8G4_n_cReE7RSsLafA
-    secret-key: mSltk9_9KtCdFetCmxvvCAgsBg8JZHiXMuQeqSJA
+    url: ra8j12cpp.hn-bkt.clouddn.com
+    bucket: miss-gan-exam
+    access-key: 8jUxTV109Lv0xag2J1z5xw5knq59eT99k00uVQtG
+    secret-key: O0HmOPC21igYGSJLjtwi6C964R4zu88S_ybs2BQr
 
 
 #mybatis page helper
